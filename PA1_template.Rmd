@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # Reproducible Research: Peer Assessment 1
 #### wk dir
 ```{r wkdir}
